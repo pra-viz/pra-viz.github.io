@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 markdown: GFM
 plugins:
   - jekyll-feed
