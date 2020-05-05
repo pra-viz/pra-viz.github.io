@@ -1,3 +1,10 @@
+---
+layout: default
+title: Exploring PRA results
+nav_order: 1
+has_children: true
+---
+
 # Exploring PRA results using visualizations
 
 [US Nuclear Regulatory Commission](https://www.nrc.gov) (US NRC) [describes Probabilistic Risk Assessment (PRA)](https://www.nrc.gov/about-nrc/regulatory/risk-informed/pra.html) for a nuclear power plant as a tool for risk estimations by computing likelihood of undesired consequences. The analysis is based on evaluation of what can go wrong, how likely is it, and what are its consequences. Thus, PRA provides insights into the strengths and weaknesses of the design and operation of a nuclear power plant.
