@@ -113,7 +113,7 @@ An example of such PRA dashboard you can find [here](dashboard.html).
 
 ## Acknowledgments
 
-This work is using [Vega-Lite](https://vega.github.io/vega-lite/), [Altair](https://altair-viz.github.io/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) to create visualizations. Data transformations are done using [Python](https://www.python.org/) and [Pandas](https://pandas.pydata.org/).
+This work is using [Vega-Lite](https://vega.github.io/vega-lite/), [Altair](https://altair-viz.github.io/), [Matplotlib](https://matplotlib.org/), [Graphviz](https://www.graphviz.org/) and [Seaborn](https://seaborn.pydata.org/) to create visualizations. Data transformations are done using [Python](https://www.python.org/) and [Pandas](https://pandas.pydata.org/).
 
 Many thanks to US Nuclear Regulatory Commission for their excellent description of [PRA](https://www.nrc.gov/about-nrc/regulatory/risk-informed/pra.html).
 
