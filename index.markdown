@@ -5,4 +5,6 @@
 layout: home
 ---
 
-This site contains information about different visualization techniques mostly for PRA results.
+This site is my playground for different visualization techniques, mostly for PRA results.
+
+[![visualpra(at)gmail.com](/images/invite.png)](explore_pra.html)
