@@ -12,8 +12,8 @@ I hope, that the examples shown here will be useful for you too.
 If you have questions, you can contact Gennady Loskutov at visualpra(at)gmail.com.
 
 All information here is distributed under MIT license.
-
-```Copyright 2020 Gennady Loskutov
+```
+Copyright 2020 Gennady Loskutov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
 associated documentation files (the "Software"), to deal in the Software without restriction, 
