@@ -55,7 +55,7 @@ The complete picture of the anatomy of PRA results is presented in the following
 
 ![Anatomy of PRA results](images/anatomy.png)
 
-This anatomy will help us to define aggregations and selections of the PRA results when we will explore those using diagrams.
+This anatomy will help us to define aggregations and selections of the PRA results when we will explore those using different charts.
 
 ## Overall picture of risks
 
