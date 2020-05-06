@@ -54,6 +54,6 @@ plugins:
 #   - vendor/ruby/
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2019-2020 Gennady Loskutov. Distributed by an MIT license.
+footer_content: "Copyright &copy; 2019-2020 Gennady Loskutov. Distributed by an MIT license."
 # Enable or disable the site search
 search_enabled: true
