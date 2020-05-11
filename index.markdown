@@ -1,8 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
+nav_order: 1
+description: "Visualization of PRA resultss."
+permalink: /
 ---
 
 This site is my playground for different visualization techniques, mostly for PRA results.
