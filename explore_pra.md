@@ -55,7 +55,7 @@ The complete picture of the anatomy of PRA results is presented in the following
 
 ![Anatomy of PRA results](images/anatomy.png)
 
-This anatomy will help us to define aggregations and selections of the PRA results when we will explore those using diagrams.
+This anatomy will help us to define aggregations and selections of the PRA results when we will explore those using different charts.
 
 ## Overall picture of risks
 
@@ -101,7 +101,7 @@ As a measure of system's impact onto risk we can choose it's fractional contribu
 
 To place a lot of data into a limited area, we can use a heatmap. Classifications of systems at most of the Swedish nuclear power plants employ an hierarchy with three levels: system class, category and ordinal number. For example, Emergency Core Cooling System belongs to the class of  safety systems and to the category of 'water supply to reactor vessel'-systems. Therefore, we can create a heatmap for each system class with system categories along Y-axis and system ordinal number along X-axis. Fractional contribution for the corresponding system will be presented using intensity of red color. An example of system risk chart is shown below.
 
-The chart contains a bonus - it is rather easy to see the system coverage in PRA!
+The chart has a bonus - it is rather easy to see the system coverage in PRA!
 
 ![System FC](images/systems.png)
 
@@ -109,11 +109,11 @@ The chart contains a bonus - it is rather easy to see the system coverage in PRA
 
 With development of libraries for interactive visualizations such as [Vega-Lite](https://vega.github.io/vega-lite/), it does not take too much effort to create PRA dashboards. The [Vega-Lite](https://vega.github.io/vega-lite/) library supports chart interactions via mouse and keyboard. The analyst can zoom into parts of chart to see the details, get information about specific point using tooltips and select some data points in one chart to see the details for the selection in another.
 
-An example of such PRA dashboard you can find [here](dashboard.html).
+An example of such PRA dashboards you can find [here](dashboard.html) and [here](systems_dashboard.html).
 
 ## Acknowledgments
 
-This work is using [Vega-Lite](https://vega.github.io/vega-lite/), [Altair](https://altair-viz.github.io/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) to create visualizations. Data transformations are done using [Python](https://www.python.org/) and [Pandas](https://pandas.pydata.org/).
+This work is using [Vega-Lite](https://vega.github.io/vega-lite/), [Altair](https://altair-viz.github.io/), [Matplotlib](https://matplotlib.org/), [Graphviz](https://www.graphviz.org/) and [Seaborn](https://seaborn.pydata.org/) to create visualizations. Data transformations are done using [Python](https://www.python.org/) and [Pandas](https://pandas.pydata.org/).
 
 Many thanks to US Nuclear Regulatory Commission for their excellent description of [PRA](https://www.nrc.gov/about-nrc/regulatory/risk-informed/pra.html).
 
